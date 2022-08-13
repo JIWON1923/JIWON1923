@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
 
 ### Hi there, I'm Jiwon Lee 🖐🏻
 <a href="https://zest1923.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a> 
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently interested in ...
-
-<br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square"/>
 <img src="https://img.shields.io/badge/UIKit-F05138?style=flat-square"/>
 
+<br>
+  
 ### 🐣 Once I've used ...
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square"/>
