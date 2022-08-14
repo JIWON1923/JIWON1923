@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Jiwon Lee 🖐🏻
 <a href="https://zest1923.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a> 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIWON1923&count_bg=%238A8C89&title_bg=%234D4D4D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
-<img align = "right" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 
+<img align = "right" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark"/>
 
 ### 🌱 I’m currently interested in ...
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
