@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 
-<img align = "right" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark"/>
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark"/>
 
 ### 🌱 I’m currently interested in
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
