@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 ### Hi there, I'm Jiwon Lee 🖐🏻
 <a href="https://zest1923.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIWON1923&count_bg=%238A8C89&title_bg=%234D4D4D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+<img src = "
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zest1923)](https://solved.ac/zest1923)
 ---
 
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark"/>
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark" width = 500/>
 
 ### 🌱 I’m currently interested in
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
