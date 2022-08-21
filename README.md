@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark"/>
 
 ### 🌱 I’m currently interested in
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/UIKit-F05138?style=flat-square"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-147EFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UIKit-F05138?style=for-the-badge"/>
 
 <br>
   
@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-
+<br>
+<img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 </div>
