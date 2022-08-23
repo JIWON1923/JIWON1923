@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark" width = 450/>
 
 ### 🌱 I’m currently interested in
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-147EFB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UIKit-F05138?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-147EFB?style=for-the-badge&logoColor=white""/>
+<img src="https://img.shields.io/badge/UIKit-F05138?style=for-the-badge&logoColor=white""/>
 
 <br>
   
