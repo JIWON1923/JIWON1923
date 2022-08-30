@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently interested in
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-147EFB?style=for-the-badge&logoColor=white""/>
-<img src="https://img.shields.io/badge/UIKit-F05138?style=for-the-badge&logoColor=white""/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 
 <br>
   
