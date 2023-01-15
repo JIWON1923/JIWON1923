@@ -17,7 +17,7 @@
 ### 🌱 I’m currently interested in
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-
+</div>
 <br>
   
   <!--
@@ -36,8 +36,8 @@
 -->
 
 
-  <br><br>
-  
+  <br><br><br>
+  ---
 ### iOS Project (Apple Developer Academy @POSTECH)
 
   |ShortcutsZip|역전할맵|이약머약|Apillog|Record|Remember|살까말까|
