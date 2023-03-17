@@ -38,6 +38,11 @@
 </div>
 -->
  
+### [Today I Learned](https://sois-organization.gitbook.io/today-i-learned/)
+### [Algorithm](https://sois-organization.gitbook.io/algorithm/)
+ 
+ 
+ 
 ## iOS Project (Apple Developer Academy @POSTECH)
 
   |ShortcutsZip|역전할맵|이약머약|Apillog|Record|Remember|살까말까|
