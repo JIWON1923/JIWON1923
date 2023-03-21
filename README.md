@@ -41,7 +41,7 @@
  <br>
  
  ## Study
-  <a href="https://sois-organization.gitbook.io/algorithm/"><img src="https://user-images.githubusercontent.com/68676844/226557932-5ea1fcc2-6ef1-41b3-bb34-a5f545de7d03.png"/></a><a href="https://sois-organization.gitbook.io/today-i-learned/"><img src="https://user-images.githubusercontent.com/68676844/226557736-582e182e-b1b0-4dbf-8fa6-24ff9460fd44.png"/></a>
+  <a href="https://sois-organization.gitbook.io/algorithm/"><img src="https://user-images.githubusercontent.com/68676844/226557932-5ea1fcc2-6ef1-41b3-bb34-a5f545de7d03.png"/></a> <a href="https://sois-organization.gitbook.io/today-i-learned/"><img src="https://user-images.githubusercontent.com/68676844/226557736-582e182e-b1b0-4dbf-8fa6-24ff9460fd44.png"/></a>
  
  
  <br>
