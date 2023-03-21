@@ -38,12 +38,13 @@
 </div>
 -->
  
+ <br>
+ 
  ## Study
-### [Today I Learned](https://sois-organization.gitbook.io/today-i-learned/)
-### [Algorithm](https://sois-organization.gitbook.io/algorithm/)
+  <a href="https://sois-organization.gitbook.io/algorithm/"><img src="https://user-images.githubusercontent.com/68676844/226557932-5ea1fcc2-6ef1-41b3-bb34-a5f545de7d03.png"/></a><a href="https://sois-organization.gitbook.io/today-i-learned/"><img src="https://user-images.githubusercontent.com/68676844/226557736-582e182e-b1b0-4dbf-8fa6-24ff9460fd44.png"/></a>
  
  
- 
+ <br>
  
 ## iOS Project (Apple Developer Academy @POSTECH)
 
@@ -53,7 +54,8 @@
   |<a href="https://github.com/DeveloperAcademy-POSTECH/MacC-Team-HappyAnding"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>|<a href="https://github.com/Gwamegis/Halmap"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>|<a href="https://github.com/JIWON1923/DetectMedicine"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>|<a href="https://github.com/DeveloperAcademy-POSTECH/MC3-Team2-APillog"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>|<a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team7-Larasy"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>|<a href="https://github.com/JIWON1923/Remember"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>|<a href="https://github.com/DeveloperAcademy-POSTECH/FinishLine-Buy-or-not"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>|
   |<a href="https://apps.apple.com/kr/app/shortcutszip/id6444001181"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a>|<a href="https://apps.apple.com/kr/app/%EC%97%AD%EC%A0%84%ED%95%A0%EB%A7%B5/id6444238142"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a>||<a href="https://apps.apple.com/kr/app/apillog/id1636467512"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a>|<a href="https://apps.apple.com/kr/app/record-%EC%9D%8C%EC%95%85%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EB%A1%9D%ED%95%98%EB%8A%94-%EC%9D%BC%EA%B8%B0/id6443635917"><img src="https://img.shields.io/badge/App Store-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a>||
 
-
+ <br>
+ 
 ## Library (CocoaPods)
 |JWCarousel|
 |---|
