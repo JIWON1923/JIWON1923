@@ -21,6 +21,8 @@
 
 ## 🌱 I’m currently interested in
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Andoird-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=swift&logoColor=white"/>
 <br><br>
   
   <!--
