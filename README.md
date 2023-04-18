@@ -75,12 +75,15 @@
     <td> 검색 기능 </td>
     <td> 지도 확인 기능 </td>
   </tr><tr>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232762245-2ef373cd-0429-47d4-8545-bf0be8e4695f.gif" width = 250> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232763402-fd45deb1-e9ef-4cce-9a94-6bc19386f52d.gif" width = 250> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232761994-e02546c5-aac0-444d-8fa1-8da4ba6b22e5.gif" width = 250> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766478-7ec01f75-678b-47c8-aa5d-f1dd0d80406b.gif" width = 250> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766714-7e496ca5-a432-4788-8dd3-4667e5c4bf31.gif" width = 250> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766869-c7439e92-4707-4b19-836a-0508909f940b.gif" width = 250> </td>
     <td> <img src = "https://user-images.githubusercontent.com/68676844/232765531-696acc37-c541-4758-9604-7dce0b5326f3.gif" width = 250> </td>
   </tr>
 </table>
+
+
+
 
 
 
