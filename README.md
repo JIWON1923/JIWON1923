@@ -61,7 +61,7 @@
 ## Library (CocoaPods)
 |JWCarousel|
 |---|
-|<img src = "https://user-images.githubusercontent.com/68676844/226136078-7935d10a-c0fe-4a5d-b774-fb60fbf64fc7.gif" width = 250><img src = "https://user-images.githubusercontent.com/68676844/230618347-3c97d5f9-9fce-4396-85ec-82737ba80047.gif" width = 250>|
+|<img src = "https://user-images.githubusercontent.com/68676844/226136078-7935d10a-c0fe-4a5d-b774-fb60fbf64fc7.gif" width = 150><img src = "https://user-images.githubusercontent.com/68676844/230618347-3c97d5f9-9fce-4396-85ec-82737ba80047.gif" width = 150>|
 |<a href="https://github.com/JIWON1923/JWCarousel"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>|
 
 
@@ -75,10 +75,10 @@
     <td> 검색 기능 </td>
     <td> 지도 확인 기능 </td>
   </tr><tr>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766478-7ec01f75-678b-47c8-aa5d-f1dd0d80406b.gif" width = 200> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766714-7e496ca5-a432-4788-8dd3-4667e5c4bf31.gif" width = 200> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766869-c7439e92-4707-4b19-836a-0508909f940b.gif" width = 200> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232765531-696acc37-c541-4758-9604-7dce0b5326f3.gif" width = 200> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766478-7ec01f75-678b-47c8-aa5d-f1dd0d80406b.gif" width = 150> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766714-7e496ca5-a432-4788-8dd3-4667e5c4bf31.gif" width = 150> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766869-c7439e92-4707-4b19-836a-0508909f940b.gif" width = 150> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232765531-696acc37-c541-4758-9604-7dce0b5326f3.gif" width = 150> </td>
   </tr>
 </table>
 
