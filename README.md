@@ -66,7 +66,22 @@
 
 
 ## Android Project(Kotlin)
-|모두의 야구|
-|---|
-|<img src = "https://user-images.githubusercontent.com/68676844/232321703-70020a61-6c6b-46a1-af1b-cbb989055b83.gif" width = 250>|
-|<a href="https://github.com/Gwamegis/Moya-Android"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>|
+<table style="border: 2px;">
+  <tr>
+    <td  colspan="4" > 모두의 야구 </td>
+  </tr><tr>
+    <td> 팀 선택 화면 </td>
+    <td> 음악 재생 기능 </td>
+    <td> 검색 기능 </td>
+    <td> 지도 확인 기능 </td>
+  </tr><tr>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232762245-2ef373cd-0429-47d4-8545-bf0be8e4695f.gif" width = 250> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232763402-fd45deb1-e9ef-4cce-9a94-6bc19386f52d.gif" width = 250> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232761994-e02546c5-aac0-444d-8fa1-8da4ba6b22e5.gif" width = 250> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/68676844/232765531-696acc37-c541-4758-9604-7dce0b5326f3.gif" width = 250> </td>
+  </tr>
+</table>
+
+
+
+
