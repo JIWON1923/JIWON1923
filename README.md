@@ -7,9 +7,7 @@
 <a href="https://zest1923.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a> 
   <br>
 ---
-
-  <br>
-
+<!--
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark" width = 450/>
 
   
@@ -19,13 +17,14 @@
 </div>
 <br>
 
+
 ## 🌱 I’m currently interested in
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Andoird-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=swift&logoColor=white"/>
 <br><br>
   
-  <!--
+
 ### 🐣 Once I've used
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square"/>
@@ -64,26 +63,13 @@
 |<img src = "https://user-images.githubusercontent.com/68676844/226136078-7935d10a-c0fe-4a5d-b774-fb60fbf64fc7.gif" width = 150><img src = "https://user-images.githubusercontent.com/68676844/230618347-3c97d5f9-9fce-4396-85ec-82737ba80047.gif" width = 150>|
 |<a href="https://github.com/JIWON1923/JWCarousel"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>|
 
+---
 
 ## Android Project(Kotlin)
-<table style="border: 2px;">
-  <tr>
-    <td  colspan="4" > 모두의 야구 </td>
-  </tr><tr>
-    <td> 팀 선택 화면 </td>
-    <td> 음악 재생 기능 </td>
-    <td> 검색 기능 </td>
-    <td> 지도 확인 기능 </td>
-  </tr><tr>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766478-7ec01f75-678b-47c8-aa5d-f1dd0d80406b.gif" width = 150> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766714-7e496ca5-a432-4788-8dd3-4667e5c4bf31.gif" width = 150> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232766869-c7439e92-4707-4b19-836a-0508909f940b.gif" width = 150> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/68676844/232765531-696acc37-c541-4758-9604-7dce0b5326f3.gif" width = 150> </td>
-  </tr>
-</table>
-
-
-
+|모두의 야구|
+|---|
+|<img src = "https://user-images.githubusercontent.com/68676844/232522401-065a1c7b-6126-4225-a5a3-a62aa90b983a.png" width = 100>|
+|<a href="https://github.com/Gwamegis/Moya-Android"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>|
 
 
 
