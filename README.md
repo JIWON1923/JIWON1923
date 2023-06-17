@@ -74,7 +74,6 @@ https://blog.banksalad.com/tech/test-in-banksalad-ios-1/
 |<img src = "https://user-images.githubusercontent.com/68676844/226136078-7935d10a-c0fe-4a5d-b774-fb60fbf64fc7.gif" width = 150><img src = "https://user-images.githubusercontent.com/68676844/230618347-3c97d5f9-9fce-4396-85ec-82737ba80047.gif" width = 150>|
 |<a href="https://github.com/JIWON1923/JWCarousel"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>|
 
----
 
 ## Android Project(Kotlin)
 |모두의 야구|
